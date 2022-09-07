@@ -2,7 +2,7 @@ describe Movie do
   let(:movie) { Movie.new }
   let(:attributes) do 
     {
-      title: "The Sting",
+      title: "The Matrix",
       release_date: 1973,
       director: "George Roy Hill",
       lead: "Paul Newman",
